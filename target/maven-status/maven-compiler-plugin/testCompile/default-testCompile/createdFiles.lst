@@ -1,0 +1,4 @@
+test\todolistservice\ItemTest.class
+test\todolistservice\ToDoListTest.class
+test\emailservice\MailServiceTest.class
+test\user\UserTest.class

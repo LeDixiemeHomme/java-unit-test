@@ -1,0 +1,8 @@
+test\todolistservice\Item.class
+test\component\HelperComponent.class
+test\emailservice\MailService.class
+test\todolistservice\ToDoList$ToDoListBuilder.class
+test\user\User$UserBuilder.class
+test\todolistservice\ToDoList.class
+test\todolistservice\Item$ItemBuilder.class
+test\user\User.class
